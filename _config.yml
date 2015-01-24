@@ -5,7 +5,8 @@ description: A nice and easy GUI pattern showcase
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gou.ie" # the base hostname & protocol for your site
 twitter_username: gou_ie
-github_username:  ahmednuaman
+github_repo:  ahmednuaman/gouie
+author: ahmednuaman
 
 # Build settings
 markdown: kramdown
